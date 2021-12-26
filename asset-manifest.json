@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/botspot-ai/static/css/main.ae7f3746.css",
-    "main.js": "/botspot-ai/static/js/main.f169d9a8.js",
-    "index.html": "/botspot-ai/index.html",
-    "main.ae7f3746.css.map": "/botspot-ai/static/css/main.ae7f3746.css.map",
-    "main.f169d9a8.js.map": "/botspot-ai/static/js/main.f169d9a8.js.map"
+    "main.css": "/botspot-react/static/css/main.ae7f3746.css",
+    "main.js": "/botspot-react/static/js/main.f169d9a8.js",
+    "index.html": "/botspot-react/index.html",
+    "main.ae7f3746.css.map": "/botspot-react/static/css/main.ae7f3746.css.map",
+    "main.f169d9a8.js.map": "/botspot-react/static/js/main.f169d9a8.js.map"
   },
   "entrypoints": [
     "static/css/main.ae7f3746.css",
